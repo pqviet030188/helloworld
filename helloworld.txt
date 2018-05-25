@@ -16,7 +16,6 @@ master adds
 fix it by hot2
 master goes here
 
-shit master
 hello world
 hot3
 hot3222
